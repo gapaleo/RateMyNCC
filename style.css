@@ -1,0 +1,31 @@
+.ratings-div {
+    margin-bottom: 5px;
+}
+
+.ratings-div p {
+    margin: 5px;
+    font-weight: normal;
+}
+
+.ratings-div h1 {
+    font-size: 13px;
+    margin: 0px;
+}
+
+.ratings-table {
+    margin-bottom: 5px;
+}
+
+.ratings-table, .ratings-table th, .ratings-table td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-weight: normal;
+    font-size: 12px;
+    text-align: center;
+}
+
+.ratings-table th {
+    background-color: rgb(148, 178, 205);
+}
